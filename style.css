@@ -1,0 +1,18 @@
+#header {
+
+    background-image: url(./images/aurora.jpg);
+    /*min-height: 30rem;*/
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-position: center;
+    color: white;
+
+}
+footer {
+
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+
+}
